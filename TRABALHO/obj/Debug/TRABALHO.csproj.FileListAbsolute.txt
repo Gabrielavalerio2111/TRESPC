@@ -1,0 +1,7 @@
+C:\Users\Gabriela Valério\source\repos\TRABALHO\TRABALHO\obj\Debug\TRABALHO.csprojAssemblyReference.cache
+C:\Users\Gabriela Valério\source\repos\TRABALHO\TRABALHO\obj\Debug\TRABALHO.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela Valério\source\repos\TRABALHO\TRABALHO\bin\Debug\TRABALHO.exe.config
+C:\Users\Gabriela Valério\source\repos\TRABALHO\TRABALHO\bin\Debug\TRABALHO.exe
+C:\Users\Gabriela Valério\source\repos\TRABALHO\TRABALHO\bin\Debug\TRABALHO.pdb
+C:\Users\Gabriela Valério\source\repos\TRABALHO\TRABALHO\obj\Debug\TRABALHO.exe
+C:\Users\Gabriela Valério\source\repos\TRABALHO\TRABALHO\obj\Debug\TRABALHO.pdb
